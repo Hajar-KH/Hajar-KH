@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "187935870869",
+    "firebase_url": "https://quizappc-b3552-default-rtdb.firebaseio.com",
+    "project_id": "quizappc-b3552",
+    "storage_bucket": "quizappc-b3552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187935870869:android:ec66d5d885373dfd12709c",
+        "android_client_info": {
+          "package_name": "com.example.myquizappc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187935870869-6qt740a8gl2fkbstilavstgg6fmbusc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIvXzXCs02BD-u6n161ahpfB4pIW_djaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187935870869-6qt740a8gl2fkbstilavstgg6fmbusc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187935870869:android:27492057c8fd05a812709c",
+        "android_client_info": {
+          "package_name": "com.yaddas.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187935870869-6qt740a8gl2fkbstilavstgg6fmbusc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIvXzXCs02BD-u6n161ahpfB4pIW_djaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187935870869-6qt740a8gl2fkbstilavstgg6fmbusc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
